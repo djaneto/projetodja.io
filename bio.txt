@@ -1,0 +1,17 @@
+/*uma página principal com uma apresentação pessoal do aluno citando frases
+de grandes pensadores que lhe sejam inspiradoras
+*/
+Quem é Djairson Neto ?
+Vivo atualmente em Feira de Santana ,Bahia, estudande e entusiasta de tecnologias da informação. 
+
+“As oportunidades multiplicam-se à medida que são agarradas”
+sun tzu
+
+"Cada sonho que você deixa para trás, é um pedaço do seu futuro que deixa de existir."
+Steve Jobs
+
+"Eu tentei 99 vezes e falhei, mas na censtésima tentativa eu consegui, nunca desiste de seus objetivos mesmo que esses pareçam impossíveis, a próxima tentativa pode ser vitoriosa."
+
+
+
+
